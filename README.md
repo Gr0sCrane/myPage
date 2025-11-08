@@ -24,5 +24,5 @@ I wrote some programs in my free time.
     <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr0sCrane)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr0sCrane)](https://github.com/Gr0sCrane/github-readme-stats)
 
