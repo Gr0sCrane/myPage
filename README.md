@@ -7,12 +7,12 @@ I wrote some programs in my free time.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js&perline=3" />
   </a>
 </p>
   <hl>
 <h1>IDE that I use/can use</h1>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
   </a>
