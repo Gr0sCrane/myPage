@@ -10,21 +10,21 @@ I wrote some programs in my free time.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js" />
   </a>
 </p>
 <h1>IDE that I use/can use</h1>
   <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm&perline=2" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
   </a>
 </p>
 <h1>General skills</h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr,un&perline=3" />
   </a>
 </p>
 
